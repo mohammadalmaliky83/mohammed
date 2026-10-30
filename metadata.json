@@ -1,0 +1,6 @@
+{
+  "name": "الناقل الآمن - منصة توصيل المستندات والتصديقات الجمركية",
+  "description": "منصة رقمية معتمدة لتوصيل المستندات والتصديقات الجمركية من أم قصر إلى جميع محافظات العراق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
